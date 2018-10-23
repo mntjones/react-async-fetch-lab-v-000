@@ -7,7 +7,11 @@ export default class App extends React.Component {
     value: ""
   }
   
-  componentDidMount() {
+  componentDidMount () {
+    
+  }
+  
+  render () {
     
   }
 }
